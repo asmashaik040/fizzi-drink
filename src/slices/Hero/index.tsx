@@ -117,14 +117,14 @@ const Hero = ({ slice }: HeroProps): JSX.Element => {
       <div className="grid">
         <div className="grid h-screen place-items-center">
           <div className="grid auto-rows-min place-items-center text-center">
-            <h1 className="hero-header text-7xl font-black uppercase leading-[.8] text-orange-500 md:text-[9rem] lg:text-[13rem]">
+            <h1 className="hero-header mt-4 text-7xl font-black uppercase leading-[.8] text-orange-500 md:text-[9rem] lg:text-[13rem]">
               <TextSplitter
                 text={asText(slice.primary.heading)}
                 wordDisplayStyle="block"
                 className="hero-header-word"
               />
             </h1>
-            <div className="hero-subheading mt-12 text-5xl font-semibold text-sky-950 lg:text-6xl">
+            <div className="hero-subheading mt-4 text-5xl font-semibold text-sky-950 lg:text-6xl">
               <PrismicRichText field={slice.primary.subheading} />
             </div>
             <div className="hero-body text-2xl font-normal text-sky-950">
@@ -133,7 +133,7 @@ const Hero = ({ slice }: HeroProps): JSX.Element => {
             <Button
               buttonLink={slice.primary.button_link}
               buttonText={slice.primary.button_text}
-              className="hero-button mt-12"
+              className="hero-button mt-4"
             />
           </div>
         </div>
