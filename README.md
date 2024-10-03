@@ -20,8 +20,6 @@ Its sleek design, seamless animations, and overall user experience set a high st
 
 👉 **Smooth Animations**: Complex CSS for fluid animations and eye-catching effects.
 
-👉 **Cool CSS Gradients**: Beautiful gradient effects using CSS `before` and `after` pseudo-elements.
-
 👉 **Seamless Navigation**: Offers a smooth user experience with intuitive navigation and scrolling.
 
 👉 **Optimized Performance**: Built for fast loading and an optimized experience.
