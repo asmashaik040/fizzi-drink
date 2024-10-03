@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Tower"
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ut consequat ipsum exercitation eiusmod magna incididunt deserunt cupidatat amet sint Lorem. Commodo ipsum ea mollit minim tempor consequat fugiat Lorem reprehenderit amet sunt ut ut qui."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
